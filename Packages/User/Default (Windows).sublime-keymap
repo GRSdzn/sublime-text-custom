@@ -1,0 +1,41 @@
+[
+  {
+    "command": "toggle_terminus_panel",
+    "keys": [
+      "ctrl+`"
+    ]
+  },
+  {
+    "command": "toggle_side_bar",
+    "keys": [
+      "ctrl+b"
+    ]
+  },
+  {
+    "command": "swap_line_up",
+    "keys": [
+      "alt+up"
+    ]
+  },
+  {
+    "command": "swap_line_down",
+    "keys": [
+      "alt+down"
+    ]
+  },
+  {
+    "command": "duplicate_line",
+    "keys": [
+      "shift+alt+down"
+    ]
+  },
+  {
+    "command": "show_overlay",
+    "keys": [
+      "ctrl+shift+p"
+    ],
+    "args": {
+      "overlay": "command_palette"
+    }
+  }
+]

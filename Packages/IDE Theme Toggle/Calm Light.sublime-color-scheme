@@ -1,0 +1,19 @@
+{
+  "name": "Calm Light",
+  "globals": {
+    "background": "#f2f2ef", "foreground": "#343b45",
+    "caret": "#375f9b", "line_highlight": "#e5e9ed",
+    "selection": "#cbdcf0", "gutter": "#ebebe8",
+    "gutter_foreground": "#858d98", "accent": "#5076a5",
+    "guide": "#d7d9d9", "active_guide": "#a9b2bd"
+  },
+  "rules": [
+    {"scope": "comment", "foreground": "#758177", "font_style": "italic"},
+    {"scope": "keyword, storage", "foreground": "#8454a1"},
+    {"scope": "string", "foreground": "#56784a"},
+    {"scope": "constant.numeric, constant.language", "foreground": "#4b6e9c"},
+    {"scope": "entity.name.function", "foreground": "#3d648a"},
+    {"scope": "entity.name.type, support.type", "foreground": "#876536"},
+    {"scope": "variable.parameter", "foreground": "#7d5b4a"}
+  ]
+}

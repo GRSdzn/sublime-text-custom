@@ -1,0 +1,12 @@
+{
+  "color_scheme": "Packages/IDE Theme Toggle/Calm Light.sublime-color-scheme",
+  "theme": "Default.sublime-theme",
+  "ignored_packages": [
+    "Vintage"
+  ],
+  "index_files": true,
+  "file_icon_theme": "niceDarkTheme.sublime-file-icons",
+  "font_size": 11,
+  "themed_title_bar": false,
+  "nice_separator": true,
+}

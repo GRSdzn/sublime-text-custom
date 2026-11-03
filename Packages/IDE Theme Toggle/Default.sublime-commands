@@ -1,0 +1,3 @@
+[
+  {"caption": "Тема: переключить светлую / тёмную", "command": "toggle_ide_theme"}
+]

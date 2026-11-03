@@ -1,0 +1,12 @@
+{
+  "installed_packages": [
+    "A File Icon",
+    "ayu",
+    "Material Theme",
+    "Package Control",
+    "Terminus"
+  ],
+  "channels": [
+    "https://packages.sublimetext.io/channel.json"
+  ]
+}

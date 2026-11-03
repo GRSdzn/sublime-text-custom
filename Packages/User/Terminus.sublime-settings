@@ -1,0 +1,9 @@
+{
+  "default_config": {
+    "windows": "PowerShell",
+    "linux": null,
+    "osx": null
+  },
+  "theme": "adaptive",
+  "scrollback_history_size": 5000
+}

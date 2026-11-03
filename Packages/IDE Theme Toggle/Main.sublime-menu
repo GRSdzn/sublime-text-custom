@@ -1,0 +1,5 @@
+[
+  {"caption": "Тема", "id": "ide_theme_toggle_menu", "children": [
+    {"caption": "Переключить светлую / тёмную", "command": "toggle_ide_theme"}
+  ]}
+]
